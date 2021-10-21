@@ -1,0 +1,17 @@
+h1 {color:red}
+.header{
+    background-color: rgb(179, 179, 179);
+    display:flex;
+    justify-content:space-between;
+}
+.game{
+    display:flex;
+ justify-content: space-evenly;
+ flex-wrap: wrap;
+}
+h2,p{
+    text-align: center;
+}
+body{
+    background-color:  rgb(100, 100, 172);
+}
